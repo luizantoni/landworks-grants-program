@@ -65,14 +65,14 @@ All scenes need to :
 **Process**
 
 When applying for a grant please state:
-Category of choice (NFT gallery / Event Venue / Fashion Venue / Company HQ / Sharded Minds themed scene)
-Specification and functionalities of the scene (description of your vision and how you plan to execute it)
-Initial design/mock up of the scene (images / models)
-Delivery date (estimate)
-Tier and amount requested from the fund 
-Email / Twitter / Discord
-Wallet for payout (on the Ethereum blockchain)
-Confirmation that you have read and agree with the terms and conditions of the program.
+- Category of choice (NFT gallery / Event Venue / Fashion Venue / Company HQ / Sharded Minds themed scene)
+- Specification and functionalities of the scene (description of your vision and how you plan to execute it)
+- Initial design/mock up of the scene (images / models)
+- Delivery date (estimate)
+- Tier and amount requested from the fund 
+- Email / Twitter / Discord
+- Wallet for payout (on the Ethereum blockchain)
+- Confirmation that you have read and agree with the terms and conditions of the program.
 
 Link to application form: https://d1zs47v7suw.typeform.com/to/hs05sYCZ 
 
