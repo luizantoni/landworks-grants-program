@@ -144,6 +144,10 @@ Yes. Grants are not limited to the categories. Grants will be given out until th
 *How can I vote on the submissions?*<br>
 If you have claimed a discord role “ENTR HodLers” or “Sharded Minds” by 3-August-2022, you will be eligible to vote on the grant submissions within a dedicated channel in the EnterDAO discord.
 
+*Can the community vote overrule the decision of the 4 jury members?*<br>
+No. The community vote is considered as a fifth vote for the final decision on whether or not a submission will be awarded a grant. The count of the votes only determines where is a go or no-go for the particular submission.
+
+
 
 **Terms and Conditions**
 1. Winners will be decided by  a panel of judges on the basis of the scoring factors.
