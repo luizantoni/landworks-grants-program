@@ -86,7 +86,7 @@ This effort is made to put more resources into the hands of our community creato
 
 The jury will evaluate the application in a first come, first serve manner, meaning that the application process will close as soon as the jury has approved applications which are exhausting the full amount of the grant prize pool.
 
-Each approved scene should be uploaded in the EnterDAO GitHub repository which we have created for all scenes part of the program.
+Each approved scene should be uploaded in the EnterDAO GitHub repository (this one) which we have created for all scenes part of the program.
 
 All scenes will also be available in LandWorks’s scene pool later on as it is currently under development.
 
