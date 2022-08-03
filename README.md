@@ -38,7 +38,7 @@ As more people are exposed to the metaverse we are noticing a need for quality s
 
 **How?**
 
-For this first round of the grant program the grant pool will be 50,000 USDC + 50,000 ENTR (vested over 50 weeks) given in 1:1 ratio. That would mean that whatever sum you get in USDC, it will be matched in ENTR tokens. The idea for the vested ENTR is for builders to have vested interest in the DAO and its protocols over time. 
+For this first round of the grant program the grant pool will be 50,000 USDC + 50,000 ENTR given in 1:1 ratio. That would mean that whatever sum you get in USDC, it will be matched in ENTR tokens.
 
 Grants may be requested for any amount within one of two possible tiers, regardless of the grant category.
 
